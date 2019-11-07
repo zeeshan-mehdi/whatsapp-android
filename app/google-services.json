@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "75211065484",
+    "firebase_url": "https://whatsapp-602ab.firebaseio.com",
+    "project_id": "whatsapp-602ab",
+    "storage_bucket": "whatsapp-602ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75211065484:android:f5830ded19ee96cb",
+        "android_client_info": {
+          "package_name": "com.shaikhutech.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75211065484-uiccjqu8oml3ijq1reitsvvi2c1s4273.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFT6ARhTvgLUjeGnYaKpJEh4z7vBbrQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75211065484-uiccjqu8oml3ijq1reitsvvi2c1s4273.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75211065484:android:97e2be2b9965f5b3",
+        "android_client_info": {
+          "package_name": "live.tv.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75211065484-uiccjqu8oml3ijq1reitsvvi2c1s4273.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFT6ARhTvgLUjeGnYaKpJEh4z7vBbrQ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75211065484-uiccjqu8oml3ijq1reitsvvi2c1s4273.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
